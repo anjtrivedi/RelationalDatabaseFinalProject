@@ -1,7 +1,7 @@
     let apikey = ""
     // if you want to execute this application more than twice per day, supply an API key below and uncomment the line
     apikey = "?registrationkey=" 
-
+    
     let response = 0
     const SUPER_SECTOR = {
       '00': 'Total nonfarm',
